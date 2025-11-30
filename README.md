@@ -1,6 +1,6 @@
 # AI Localization Assistant (CrewAI + DeepL)
 
-**Live app:** `https://ai-localization-assistant.vercel.app/`
+**Live app:** [https://ai-localization-assistant.vercel.app/](https://ai-localization-assistant.vercel.app/)
 
 **AI-powered localization playground for product and marketing teams.** Paste source copy once, pick locales and tone, and let a CrewAI of Translator, Context Reviewer, and Proofreader agents turn it into high‑quality, on‑brand translations.
 
