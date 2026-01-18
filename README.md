@@ -1,7 +1,5 @@
 # AI Localization Assistant (CrewAI + DeepL)
 
-**Live app:** [https://ai-localization-assistant.vercel.app/](https://ai-localization-assistant.vercel.app/)
-
 **AI-powered localization playground for product and marketing teams.** Paste source copy once, pick locales and tone, and let a CrewAI of Translator, Context Reviewer, and Proofreader agents turn it into high‑quality, on‑brand translations.
 
 ---
@@ -60,14 +58,6 @@
 - **shadcn/ui** – cards, buttons, inputs, etc.
 - **lucide-react** – icons.
 
-
-
-## Demo
-
-<!-- TODO: Add live demo URL and screenshot -->
-- **Live Demo**: [Coming soon]
-- **Screenshot**: ![Localization Assistant Playground](./docs/screenshot.png)
-
 ## Overview
 
 **Localization Assistant** orchestrates a crew of three specialized AI agents:
@@ -106,18 +96,6 @@ Together, they produce production-ready localized content that maintains brand c
 - **Railway** for deployment
 - **Supabase** for database
 - **Upstash** for Redis (optional)
-
-
-
-## Support
-
-For issues and questions, please open an issue on GitHub.
-
-## Additional Resources
-
-- [Deployment Guide](./DEPLOYMENT.md) - Detailed Railway deployment instructions
-- [Architecture Documentation](./ARCH.md) - System architecture details
-- [Project Plan](./PLAN.md) - Development milestones
 
 ---
 
